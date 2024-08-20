@@ -1,2 +1,2 @@
-# prithwishmaiti.github.io
-my website
+Prithwish Maiti
+> Data Scientist
