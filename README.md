@@ -1,12 +1,9 @@
-# Home
+# Welcome to Prithwish Maiti's Portfolio
 
-## Welcome to Prithwish Maiit's Portfolio
+![Profile Photo](IMG_3052.HEIC)
 
-![Profile Photo](path-to-your-photo.jpg)
 
-### Data Scientist & Algorithm Enthusiast
-
-I am a passionate data scientist with a focus on robust risk measurement, model risk, and algorithm development. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
+I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
 
 ### Highlights
 
@@ -14,7 +11,7 @@ I am a passionate data scientist with a focus on robust risk measurement, model 
 - [Algorithmic Development](#projects)
 - [Risk Management](#projects)
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile) | [Email Me](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com)
 
 ---
 
