@@ -19,32 +19,39 @@ I am a passionate data scientist with a focus on disecting complexes financial a
 
 ## Professional Background
 
-I am currently working at First Citizens Bank under Dr. Cagatay Karan, focusing on robust risk measurement and model risk. My work involves applying advanced data structures and algorithms to solve complex financial problems.
+In the summer of 2024, I worked under Dr. Cagatay Karan at First Citizens Bank, focusing on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting.
+
+Currently, I am pursuing a master's degree in financial mathematics at NC State University. I chose this path because I felt limited by having only mathematical and coding knowledge of data models. The financial industry has always been on my radar, and I want to work at the intersection of business and technology—a role well-suited for a financial/quantitative modeler.
+
+I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company.
 
 ## Academic Interests
 
-I have a deep interest in efficient data structures and algorithms, particularly in maintaining and retrieving key-value pairs in a priority queue or min-heap form. My academic projects reflect this passion and my continuous drive to push the boundaries of what's possible with data.
+My current focus is on leveraging the power of large data sets to build statistical models for low-risk investing, such as statistical arbitrage. Additionally, I am interested in using computational power to achieve results in stochastic processes that were previously unattainable, such as pricing options. The courses in my financial mathematics program have provided me with the ideal launchpad for this work.
+
+I have a deep interest in efficient data structures and algorithms. I frequently engaged in coding challenges on platforms like LeetCode, CodeChef, and Codeforces, which I found to be a fun pastime. During my undergraduate studies in mathematics, I took courses in algebra, probability, PDE, ODE, and discrete mathematics in the first two years, before shifting my focus to data science, including a course in deep learning. My academic projects reflect my passion for pushing the boundaries of what's possible with data.
 
 ## Personal Insights
 
-My approach to problem-solving is deeply analytical, often combining theoretical knowledge with practical applications. I enjoy breaking down complex problems into manageable tasks and finding elegant, efficient solutions.
+My approach to problem-solving is deeply analytical, combining theoretical knowledge with practical applications. I enjoy breaking down complex problems into manageable tasks and finding elegant, efficient solutions.
+
+Learning finance has transformed my perspective. Through the financial mathematics course during my bachelor's program, I became fascinated by the mechanics of money and its true value. It gave me a deep, intuitive understanding, particularly in areas like options and futures pricing. With my additional knowledge of statistics and data science, I am positioning myself to become a quantitative financial analyst.
+
+At IIT Delhi, I was surrounded by some of the best and brightest thinkers in the country, which fostered a competitive mindset in me. However, I also recognized that the education system often promotes exam-based learning, which can hinder a deeper understanding of subjects and contribute to a sense of a "rat race."
+
+
 
 ---
 
 # Projects
 
-## Quantitative Trading Projects
 
-### [S&P 500 Data Bundle Expansion with QuantRocket](#)
-- **Details:** I tackled the challenges of expanding the US stock free one-minute bundle to include all constituents of the S&P 500. This involved configuring universes and specifying `sids` in QuantRocket's Zipline.
+## Algorithmic Trading Development
 
-### [Backtesting Strategies with PyAlgoTrade](#)
-- **Details:** Developed and backtested trading strategies using PyAlgoTrade. Set commission levels and explored live trading setups, aiming to refine strategies through data analysis and machine learning.
+Currently, I'm working on deploying a systematic algorithmic trading strategy which mostly works on technical analysis. My main aim is to integrate data science logic to direct patterns using time series data into the trading strategies. 
 
-## Algorithmic Development
+I am researching On 3 python libraries backed Trader back testing and pyAlgotrade(currently archived, so will move on to basana). Out of these three I have made significant progress in the pyAlgotrade library. Please stay updated for upcoming results which I will post on my website and my github repository.
 
-### [Efficient Key-Value Pair Storage in Min-Heaps](#)
-- **Details:** Explored advanced techniques for maintaining and retrieving key-value pairs in a priority queue form, focusing on efficiency and scalability.
 
 ## Risk Management
 
@@ -61,15 +68,12 @@ My approach to problem-solving is deeply analytical, often combining theoretical
 
 ## Technical Articles
 
-- **[Using PyAlgoTrade for Effective Backtesting](#):** A comprehensive guide on getting started with PyAlgoTrade, including tips on setting commission levels and exploring live trading scenarios.
+- **[Using PyAlgoTrade for Effective Backtesting](#):** A comprehensive guide on getting started with PyAlgoTrade, and exploring live trading scenarios.
   
 ## Industry Insights
 
 - **[Trends in Data Science and Finance](#):** My thoughts on the latest trends in data science, particularly in the financial industry, and how these developments are shaping the future of trading.
 
-## Tutorials
-
-- **[Creating Custom Data Bundles in QuantRocket](#):** Step-by-step tutorial on how to create and manage custom data bundles in QuantRocket, specifically focusing on the S&P 500 constituents.
 
 ---
 
@@ -79,7 +83,6 @@ My approach to problem-solving is deeply analytical, often combining theoretical
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn.
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile) | [Email Me](mailto:youremail@example.com)
 
 ---
 
