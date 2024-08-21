@@ -1,6 +1,6 @@
 # Welcome to Prithwish Maiti's Portfolio
 
-![Profile Photo](IMG_3052.HEIC)
+![Profile Photo](IMG_3052.png)
 
 
 I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
@@ -24,10 +24,6 @@ I am currently working at First Citizens Bank under Dr. Cagatay Karan, focusing 
 ## Academic Interests
 
 I have a deep interest in efficient data structures and algorithms, particularly in maintaining and retrieving key-value pairs in a priority queue or min-heap form. My academic projects reflect this passion and my continuous drive to push the boundaries of what's possible with data.
-
-## Current Projects
-
-I am currently expanding my expertise in QuantRocket, specifically working on the S&P 500 constituents and moving towards live trading using PyAlgoTrade. My goal is to integrate machine learning into these strategies to enhance their predictive power.
 
 ## Personal Insights
 
