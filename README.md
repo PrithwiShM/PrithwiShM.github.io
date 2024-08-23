@@ -1,14 +1,12 @@
-<img src="./IMG_3052.png" alt="Profile Pic" width="200">
+<img src="./IMG_3052.png" alt="Profile Pic" width="300">[LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com)
 
 ## Welcome to Prithwish Maiti's Portfolio
 I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
 
 ### Highlights
 
-- [Quantitative Trading Projects](#projects)
-- [Algorithmic Development](#projects)
-- [Risk Management](#projects)
-
+- [Algorithmic Trading Development](#projects)
+- [Robust Risk Management](#projects)
 
 ---
 
