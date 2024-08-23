@@ -1,4 +1,4 @@
-![Profile Pic](./IMG_3052.png)
+<img src="./IMG_3052.png" alt="Profile Pic" width="200">
 
 ## Welcome to Prithwish Maiti's Portfolio
 I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
