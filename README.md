@@ -51,10 +51,13 @@ I am researching On 3 python libraries backed Trader back testing and pyAlgotrad
 
 Check out my blog on comparison of 3 algorithmic trading framework available as a [python module](https://medium.com/@prithwish.maiti99/comparizion-of-algorithmic-trading-packages-in-python-6480eee90af8)
 
-## Risk Management
+## Robust Risk Measurment and Worst Case Senarios
 
-### [Robust Risk Measurement Techniques](#)
-- **Details:** Contributed to developing robust risk measurement models at First Citizens Bank. Focused on identifying and mitigating model risk to improve the accuracy and reliability of financial predictions.
+Financial risk measurement depends on models of prices and other market variables, but these models are inherently based on imperfect assumptions and estimates, leading to model risk. Optimization decisions, such as portfolio selection, exacerbate the impact of model error. In this study, we develop a framework to quantify the impact of model error and to measure and minimize risk in a manner that is robust to such errors. Our robust approach begins with a baseline model and identifies the worst-case error in risk measurement that could result from deviating from this baseline model, subject to a specific constraint on the plausibility of the deviation. By using relative entropy to constrain model distance, we can explicitly characterize worst-case model errors. This method goes beyond simply addressing errors in parameter estimates to consider errors in the underlying stochastic assumptions of the model, identifying the greatest vulnerabilities to error. We apply this robust framework to issues of portfolio risk measurement, credit risk, and delta hedging.
+
+[Here](https://drive.google.com/file/d/1fTW7Km6hS-KA8tjWDNTiwUqST4EaGJts/view?usp=sharing) is a link to the Review paper of the theory.
+
+[Here](https://drive.google.com/file/d/1PKVeDKlWQaLrsGf7d9QL5qDEbTslxZGr/view?usp=drive_link) is a link to the Presentation.
 
 ## Future Projects
 
@@ -68,7 +71,7 @@ Check out my blog on comparison of 3 algorithmic trading framework available as 
 
 - **[Using PyAlgoTrade for Effective Backtesting](#):** A comprehensive guide on getting started with PyAlgoTrade, and exploring live trading scenarios.
   
-## Industry Insights
+## Market making Insights
 
 - **[Trends in Data Science and Finance](#):** My thoughts on the latest trends in data science, particularly in the financial industry, and how these developments are shaping the future of trading.
 
