@@ -16,9 +16,9 @@ I am a passionate data scientist with a focus on disecting complexes financial a
 
 ## Professional Background
 
-In the summer of 2024, I worked under Dr. Cagatay Karan at First Citizens Bank, focusing on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting.
-
 Currently, I am pursuing a master's degree in financial mathematics at NC State University. I chose this path because I felt limited by having only mathematical and coding knowledge of data models. The financial industry has always been on my radar, and I want to work at the intersection of business and technology—a role well-suited for a financial/quantitative modeler.
+
+In the summer of 2024, I worked on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting. I have a keen interest in extracting patterns out of financial data mostly in the form of time series data. Previous to coming here I did an internship in a market making company where I was involved in creating a time-based alternative evolution of Limit-order book using the subscriber-publisher C++ framework. This was the time where I learned deeply about algorithmic trading and market making.
 
 I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company.
 
@@ -49,6 +49,7 @@ Currently, I'm working on deploying a systematic algorithmic trading strategy wh
 
 I am researching On 3 python libraries backed Trader back testing and pyAlgotrade(currently archived, so will move on to basana). Out of these three I have made significant progress in the pyAlgotrade library. Please stay updated for upcoming results which I will post on my website and my github repository.
 
+Check out my blog on comparison of 3 algorithmic trading framework available as a [python module](https://medium.com/@prithwish.maiti99/comparizion-of-algorithmic-trading-packages-in-python-6480eee90af8)
 
 ## Risk Management
 
