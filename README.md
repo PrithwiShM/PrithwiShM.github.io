@@ -73,8 +73,7 @@ Financial risk measurement depends on models of prices and other market variable
   
 ## Market making Insights
 
-- **[Trends in Data Science and Finance](#):** My thoughts on the latest trends in data science, particularly in the financial industry, and how these developments are shaping the future of trading.
-
+- **[Financial Microstructure of Market Making](https://drive.google.com/file/d/1PKVeDKlWQaLrsGf7d9QL5qDEbTslxZGr/view?usp=sharing):** This paper contains review of the second chapter of the book, algorithmic and high frequency trading by Cartea, Jaimungal and Penelva. 
 
 ---
 
