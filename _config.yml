@@ -1,8 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Prithwish's website"
-description: |
-  <a href="https://www.linkedin.com/in/prithwish-maiti/">LinkedIn</a> | <a href="https://github.com/PrithwiShM">GitHub</a> | <a href="mailto:prithwish.maiti99@gmail.com">Email Me</a>
-
+title: Prithwish Maiti
+description: Quantitative Finance | Statistical Data Analysis
 # Add this line to include your custom CSS
 sass:
   style: compressed
