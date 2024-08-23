@@ -86,4 +86,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 # Footer
 
-© [Your Name] 2024 | [Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Blog](#blog) | [Contact](#contact)
+© [Prithwish Maiti] 2024 | [Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Blog](#blog) | [Contact](#contact)
