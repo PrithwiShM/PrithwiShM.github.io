@@ -1,0 +1,18 @@
+/* Example custom styles */
+body {
+    background-color: #f0f0f0; /* Change the background color */
+    color: #333333; /* Change the text color */
+    font-family: 'Arial', sans-serif; /* Change the font */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #006699; /* Change the header text color */
+}
+
+a {
+    color: #cc0000; /* Change the link color */
+}
+
+a:hover {
+    color: #ff6600; /* Change the link hover color */
+}
