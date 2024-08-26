@@ -1,4 +1,5 @@
 <img src="./IMG_3052.png" alt="Profile Pic" width="300">
+
 [LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com)
 
 ## Welcome to Prithwish Maiti's Portfolio
