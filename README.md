@@ -1,6 +1,6 @@
 <img src="./IMG_3052.png" alt="Profile Pic" width="300">
 
-[LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com) | [Resume](https://drive.google.com/drive/folders/1cRKekbixlj5TwFX0vEWecNuXhPJTALdD)
+[LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com) | [Resume](https://drive.google.com/file/d/1Wdilb1tOqFofz-wEqqj4iRxQtKb5o6bK/view?usp=sharing)
 
 ## Welcome to Prithwish Maiti's Portfolio
 I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
@@ -71,7 +71,7 @@ Financial risk measurement depends on models of prices and other market variable
   
 ## Market making Insights
 
-- **[Financial Microstructure of Market Making](https://drive.google.com/drive/folders/1cRKekbixlj5TwFX0vEWecNuXhPJTALdD):** This paper contains a review of the second chapter of the book, algorithmic and high frequency trading by Cartea, Jaimungal and Penelva. It talks about the three models that have been described in various sections of this chapter. I started writing this To bridge the gap between the auth And the mathematical derivation so that anyone can clearly connect them. I have also added all the derivations and corrected some minor mistakes.
+- **[Financial Microstructure of Market Making](https://drive.google.com/file/d/13TvgtS62n2cEsx_6c7OnSbYc9ufrgRwN/view):** This paper contains a review of the second chapter of the book, algorithmic and high frequency trading by Cartea, Jaimungal and Penelva. It talks about the three models that have been described in various sections of this chapter. I started writing this To bridge the gap between the auth And the mathematical derivation so that anyone can clearly connect them. I have also added all the derivations and corrected some minor mistakes.
 
 ---
 
