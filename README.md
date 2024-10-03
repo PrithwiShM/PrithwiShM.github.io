@@ -35,19 +35,9 @@ Learning finance has transformed my perspective. Through the financial mathemati
 At IIT Delhi, I was surrounded by some of the best and brightest thinkers in the country, which fostered a competitive mindset in me. However, I also recognized that the education system often promotes exam-based learning, which can hinder a deeper understanding of subjects and contribute to a sense of a "rat race."
 
 
-
 ---
 
 # Projects
-
-
-## Algorithmic Trading Development
-
-Currently, I'm working on deploying a systematic algorithmic trading strategy which mostly works on technical analysis. My main aim is to integrate data science logic to direct patterns using time series data into the trading strategies. 
-
-I am researching On 3 python libraries backed Trader back testing and pyAlgotrade(currently archived, so will move on to basana). Out of these three I have made significant progress in the pyAlgotrade library. Please stay updated for upcoming results which I will post on my website and my github repository.
-
-Check out my blog on comparison of 3 algorithmic trading framework available as a [python module](https://medium.com/@prithwish.maiti99/comparizion-of-algorithmic-trading-packages-in-python-6480eee90af8)
 
 ## Robust Risk Measurment and Worst Case Senarios
 
@@ -57,9 +47,20 @@ Financial risk measurement depends on models of prices and other market variable
 
 [Here](https://drive.google.com/file/d/1PKVeDKlWQaLrsGf7d9QL5qDEbTslxZGr/view?usp=drive_link) is a link to the Presentation.
 
-## Future Projects
+## Mortgage loans Servity Analysis
 
-- **Integrating Machine Learning with Quantitative Trading:** Currently researching methods to integrate machine learning into existing trading strategies to enhance performance and predictive capabilities.
+Fannie Mae single-family mortgage loans data contains a lot of information on the loans they have acquired. It includes a robust comprehension of the performance of the loans and any delinquency procedure if conducted. However much of the data is in crude form, that is reflectes only the procedure in which it was collected and compiled. There is a need to refine the data and extract useful features . Here I present the procedure , that I have formulated to do the same and them form a predictive model to form a LGD prediction table and subsequently a servity model. 
+
+The challenge of the data set is that any losses appear in the very last row and not before that. So we cannot build continuous evaluation process, and resort to a prediction model. I have attached a report of the data with the prediction model to be updated later along with the Github repo.
+[Mortgage loans Servity Analysis](https://drive.google.com/file/d/1TBUfwxoCxNq1n0x-OVJUoyirST4WQzd-/view?usp=sharing)
+
+## Algorithmic Trading Development
+
+Currently, I'm working on deploying a systematic algorithmic trading strategy which mostly works on technical analysis. My main aim is to integrate data science logic to direct patterns using time series data into the trading strategies. 
+
+I am researching On 3 python libraries backed Trader back testing and pyAlgotrade(currently archived, so will move on to basana). Out of these three I have made significant progress in the pyAlgotrade library. Please stay updated for upcoming results which I will post on my website and my github repository.
+
+Check out my blog on comparison of 3 algorithmic trading framework available as a [python module](https://medium.com/@prithwish.maiti99/comparizion-of-algorithmic-trading-packages-in-python-6480eee90af8)
 
 ---
 
