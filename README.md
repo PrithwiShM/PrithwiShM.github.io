@@ -3,22 +3,26 @@
 [LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com) | [Resume](https://drive.google.com/file/d/1Wdilb1tOqFofz-wEqqj4iRxQtKb5o6bK/view?usp=sharing)
 
 ## Welcome to Prithwish Maiti's Portfolio
-I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in quantitative trading and exploring the intersection of data science and finance.
+I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in modelling information flow and statistical learning. With the vast amount of data available in today's world, integrating data science models has become an essential factor in enhancing mathematical modeling. 
+I also have a prospective focus on game theory, Stochastic queuing and supply chain modelling, Monte Carlo simulation methods So I'm also looking forward to do a phd In applied/computational math or operations research.
 
 ### Highlights
 
-- [Algorithmic Trading Development](#projects)
 - [Robust Risk Management](#projects)
-
+- [Mortgage loans Servity Analysis](#projects)
+- [Algorithmic Trading Development](#projects)
+  
 ---
 
 ## Professional Background
 
-Currently, I am pursuing a master's degree in financial mathematics at NC State University. I chose this path because I felt limited by having only mathematical and coding knowledge of data models. The financial industry has always been on my radar, and I want to work at the intersection of business and technology—a role well-suited for a financial/quantitative modeler.
+Currently, I am pursuing a master's degree in financial mathematics at NC State University bound to graduate in December 2024. I chosse this path because I felt limited by having only mathematical and coding knowledge of data models. The financial industry has always been on my radar, and I want to work at the intersection of business and technology—a role well-suited for a financial/quantitative modeler.
 
-In the summer of 2024, I worked on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting. I have a keen interest in extracting patterns out of financial data mostly in the form of time series data. Previous to coming here I did an internship in a market making company where I was involved in creating a time-based alternative evolution of Limit-order book using the subscriber-publisher C++ framework. This was the time where I learned deeply about algorithmic trading and market making.
+In the summer of 2024, I worked on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting. I have a keen interest in extracting patterns out of financial data mostly in the form of time series data. 
 
-I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company.
+I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company. There I learned what big data has done to the data analytics community, Designing framework to handle the data before learning from the data. I was coding association mining algorithms in Scala and mainting the framework to derive the rresults. 
+
+Previous to coming here I did an internship in a market making company where I was involved in creating a time-based alternative evolution of Limit-order book using the subscriber-publisher C++ framework. This was the time where I learned deeply about algorithmic trading and market making. After an year, I realised that Market making is a niche business where knowing your competitors strategy has a big advantage. I have read some amount of market making theory and have written a review on it.
 
 ## Academic Interests
 
@@ -66,14 +70,14 @@ Check out my blog on comparison of 3 algorithmic trading framework available as 
 
 # Blog
 
-## Technical Articles
-
-- **[Using PyAlgoTrade for Effective Backtesting]:** A comprehensive guide on getting started with PyAlgoTrade, and exploring live trading scenarios. This project is currently in development and a Github repo link will be updated here in the future.
   
 ## Market making Insights
 
 - **[Financial Microstructure of Market Making](https://drive.google.com/file/d/13TvgtS62n2cEsx_6c7OnSbYc9ufrgRwN/view):** This paper contains a review of the second chapter of the book, algorithmic and high frequency trading by Cartea, Jaimungal and Penelva. It talks about the three models that have been described in various sections of this chapter. I started writing this To bridge the gap between the auth And the mathematical derivation so that anyone can clearly connect them. I have also added all the derivations and corrected some minor mistakes.
 
+## Technical Articles
+
+- **[Using PyAlgoTrade for Effective Backtesting]:** A comprehensive guide on getting started with PyAlgoTrade, and exploring live trading scenarios. This project is currently in development and a Github repo link will be updated here in the future.
 ---
 
 # Contact
