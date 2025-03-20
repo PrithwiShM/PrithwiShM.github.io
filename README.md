@@ -3,8 +3,8 @@
 [LinkedIn](https://www.linkedin.com/in/prithwish-maiti/) | [GitHub](https://github.com/PrithwiShM) | [Email Me](mailto:prithwish.maiti99@gmail.com) | [Resume](https://drive.google.com/file/d/1Wdilb1tOqFofz-wEqqj4iRxQtKb5o6bK/view?usp=sharing)
 
 ## Welcome to Prithwish Maiti's Portfolio
-I am a passionate data scientist with a focus on disecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in modelling information flow and statistical learning. With the vast amount of data available in today's world, integrating data science models has become an essential factor in enhancing mathematical modeling. 
-I also have a prospective focus on game theory, Stochastic queuing and supply chain modelling, Monte Carlo simulation methods So I'm also looking forward to do a phd In applied/computational math or operations research.
+I am a passionate data scientist with a focus on dissecting complexes financial assets and leveraging the power of data to find profitable trends in them. Currently, I'm working on expanding my expertise in modelling information flow and statistical learning. With the vast amount of data available in today's world, integrating data science models has become an essential factor in enhancing mathematical modeling. 
+I also have a prospective focus on game theory, Stochastic queuing and supply chain modelling, Monte Carlo simulation methods.
 
 ### Highlights
 
@@ -16,18 +16,17 @@ I also have a prospective focus on game theory, Stochastic queuing and supply ch
 
 ## Professional Background
 
-Currently, I am pursuing a master's degree in financial mathematics at NC State University bound to graduate in December 2024. I chosse this path because I felt limited by having only mathematical and coding knowledge of data models. The financial industry has always been on my radar, and I want to work at the intersection of business and technology—a role well-suited for a financial/quantitative modeler.
+Currently, I am employed at Murano Technologies at Durham, NC. Here, I am working as a software developer for IoT devices. The financial industry has always been on my radar, and I want to work at the intersection of business and technology. 
 
 In the summer of 2024, I worked on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting. I have a keen interest in extracting patterns out of financial data mostly in the form of time series data. 
 
-I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company. There I learned what big data has done to the data analytics community, Designing framework to handle the data before learning from the data. I was coding association mining algorithms in Scala and mainting the framework to derive the rresults. 
+I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company. There I learned what big data has done to the data analytics community, designing framework to handle the data before learning from the data. I was coding data mining and validation algorithms in Scala and maintaining the framework to derive the results. 
 
-Previous to coming here I did an internship in a market making company where I was involved in creating a time-based alternative evolution of Limit-order book using the subscriber-publisher C++ framework. This was the time where I learned deeply about algorithmic trading and market making. After an year, I realised that Market making is a niche business where knowing your competitors strategy has a big advantage. I have read some amount of market making theory and have written a review on it.
+In India, I did an internship in a market making company where I was involved in creating a time-based alternative evolution of Limit-order book using the subscriber-publisher C++ framework. This was the time where I learned deeply about algorithmic trading and market making. After a year, I realised that Market making is a niche business where knowing your competitor’s strategy has a big advantage. I have read some amount of market making theory and have written a review on it.
 
 ## Academic Interests
 
-My current focus is on leveraging the power of large data sets to build statistical models for low-risk investing, such as statistical arbitrage. Additionally, I am interested in using computational power to achieve results in stochastic processes that were previously unattainable, such as pricing options. The courses in my financial mathematics program have provided me with the ideal launchpad for this work.
-
+My current focus is on leveraging the power of large data sets to build statistical models for low-risk investment frameworks, such as statistical arbitrage. Additionally, I am interested in using computational power to achieve results in stochastic processes that were previously unattainable, such as pricing options. The courses in my financial mathematics program have provided me with the ideal launchpad for this work.
 I have a deep interest in efficient data structures and algorithms. I frequently engaged in coding challenges on platforms like LeetCode, CodeChef, and Codeforces, which I found to be a fun pastime. During my undergraduate studies in mathematics, I took courses in algebra, probability, PDE, ODE, and discrete mathematics in the first two years, before shifting my focus to data science, including a course in deep learning. My academic projects reflect my passion for pushing the boundaries of what's possible with data.
 
 ## Personal Insights
@@ -36,7 +35,7 @@ My approach to problem-solving is deeply analytical, combining theoretical knowl
 
 Learning finance has transformed my perspective. Through the financial mathematics course during my bachelor's program, I became fascinated by the mechanics of money and its true value. It gave me a deep, intuitive understanding, particularly in areas like options and futures pricing. With my additional knowledge of statistics and data science, I am positioning myself to become a quantitative financial analyst.
 
-At IIT Delhi, I was surrounded by some of the best and brightest thinkers in the country, which fostered a competitive mindset in me. However, I also recognized that the education system often promotes exam-based learning, which can hinder a deeper understanding of subjects and contribute to a sense of a "rat race."
+At IIT Delhi, I was surrounded by some of the best and brightest thinkers in the country, which fostered a competitive mindset in me. However, I also recognized that the education system often promotes evaluation-based learning, which can hinder a deeper understanding of subjects and contribute to a sense of a "rat race."
 
 
 ---
@@ -51,12 +50,12 @@ Financial risk measurement depends on models of prices and other market variable
 
 [Here](https://drive.google.com/file/d/1PKVeDKlWQaLrsGf7d9QL5qDEbTslxZGr/view?usp=drive_link) is a link to the Presentation.
 
-## Mortgage loans Servity Analysis
+## Mortgage loans Severity Analysis
 
-Fannie Mae single-family mortgage loans data contains a lot of information on the loans they have acquired. It includes a robust comprehension of the performance of the loans and any delinquency procedure if conducted. However much of the data is in crude form, that is reflectes only the procedure in which it was collected and compiled. There is a need to refine the data and extract useful features . Here I present the procedure , that I have formulated to do the same and them form a predictive model to form a LGD prediction table and subsequently a servity model. 
+Fannie Mae single-family mortgage loans data contains a lot of information on the loans they have acquired. It includes a robust comprehension of the performance of the loans and any delinquency procedure if conducted. However much of the data is in crude form, that is reflects only the procedure in which it was collected and compiled. There is a need to refine the data and extract useful features. Here I present the procedure, that I have formulated to do the same and them form a predictive model to form a LGD prediction table and subsequently a severity model. 
 
-The challenge of the data set is that any losses appear in the very last row and not before that. So we cannot build continuous evaluation process, and resort to a prediction model. I have attached a report of the data with the prediction model to be updated later along with the Github repo.
-[Mortgage loans Servity Analysis](https://drive.google.com/file/d/1TBUfwxoCxNq1n0x-OVJUoyirST4WQzd-/view?usp=sharing)
+This data set presents a challenge of developing a prediction model. I have attached a report of the data with the prediction model to be updated later along with the Github repo.
+[Mortgage loans severity Analysis] (https://drive.google.com/file/d/1TBUfwxoCxNq1n0x-OVJUoyirST4WQzd-/view?usp=sharing)
 
 ## Algorithmic Trading Development
 
@@ -73,11 +72,11 @@ Check out my blog on comparison of 3 algorithmic trading framework available as 
   
 ## Market making Insights
 
-- **[Financial Microstructure of Market Making](https://drive.google.com/file/d/13TvgtS62n2cEsx_6c7OnSbYc9ufrgRwN/view):** This paper contains a review of the second chapter of the book, algorithmic and high frequency trading by Cartea, Jaimungal and Penelva. It talks about the three models that have been described in various sections of this chapter. I started writing this To bridge the gap between the auth And the mathematical derivation so that anyone can clearly connect them. I have also added all the derivations and corrected some minor mistakes.
+- **[Financial Microstructure of Market Making](https://drive.google.com/file/d/13TvgtS62n2cEsx_6c7OnSbYc9ufrgRwN/view):** This paper contains a review of the second chapter of the book, algorithmic and high frequency trading by Cartea, Jaimungal and Penelva. It talks about the three models that have been described in various sections of this chapter. I started writing this to bridge the gap between the auth and the mathematical derivation so that anyone can clearly connect them. I have also added all the derivations and corrected some minor mistakes.
 
 ## Technical Articles
 
-- **[Using PyAlgoTrade for Effective Backtesting]:** A comprehensive guide on getting started with PyAlgoTrade, and exploring live trading scenarios. This project is currently in development and a Github repo link will be updated here in the future.
+- **[Using PyAlgoTrade for Effective Backtesting]:** A comprehensive guide on getting started with PyAlgoTrade, and exploring live trading scenarios. This project is currently in development and a GitHub repo link will be updated here in the future.
 ---
 
 # Contact
