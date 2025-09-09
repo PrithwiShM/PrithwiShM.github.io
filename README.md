@@ -5,7 +5,9 @@
 ## Welcome to Prithwish Maiti's Portfolio
 
 **Welcome to my webpage.**
+
 I work at the intersection of systems engineering and data engineering, applying analytics to enable machines to perform high-level tasks with the computing power available today. My experience spans domains such as embedded systems, financial services, and healthcare analytics, where I have developed a deep appreciation for the need to design robust, scalable systems capable of processing data at scale.
+
 I have an interest in dissecting complexes financial assets and leveraging the power of data to find profitable trends in them. I am eager to deepen my expertise in modelling information flow and reinforcement learning. With the vast amount of data available in today's world, integrating data science models has become an essential factor for driving informed decision-making, optimizing processes, and unlocking new opportunities for innovation.
 
 ### Highlights
@@ -18,15 +20,29 @@ I have an interest in dissecting complexes financial assets and leveraging the p
 
 ## Professional Summary
 
-Currently, I am employed at Murano Technologies at Durham, NC. Here, I am working as a software systems engineer for handheldable devices .  Working here has gained my focus on low level programming in C++, taking maximum control of the program, modular and Object-oriented design. I have also learned essential skills like ownership of projects, effective reporting and documentation. I also goth the opportunity to research great innovations in the sector of communication, localization and positioning and Computer vision. All these research experience have made me product builder capable to   
+In my current role, I’ve focused on building low-level software systems as a part of Operating systems for portable communication devices. I’ve developed service-level functionalities with clean, user-friendly APIs, and engineered secure middleware for database communication, quantum-safe encryption, and video codecs. I apply best practices in memory management, resource allocation, and object-oriented design, while orchestrating concurrency with thread pooling and synchronization to deliver latency-critical solutions.
 
-In the summer of 2024, I worked on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting. I have a keen interest in extracting patterns out of financial data mostly in the form of time series data. 
+Two achievements I’m most proud of are: first, creating a live object detection service from camera feeds using TensorRT deserialization and high-speed streaming; and second, architecting an autonomous UAV system with state-machine execution, advanced features like live object and RF signal detection. These projects really demonstrate my ability to take complex problems and break them down to low-level problems and deliver optimized, production-ready end-to-end systems.
 
-I graduated from the Indian Institute of Technology Delhi, one of India's premier technological institutes. After graduating, I worked as a data scientist at Hilabs, a health data analytics company. There I learned what big data has done to the data analytics community, designing framework to handle the data before learning from the data. I was coding data mining and validation algorithms in Scala and maintaining the framework to derive the results. 
+In my previous role, I worked in a financial services company, specializing in brokerage services and market intelligence of equity derivatives. I worked on a project on removing noise from limit order book by filtering out spurious orders (those posted by high frequency traders, not containing any market information). The purpose of this project was to improve the signal provided by trading balance to drive the market returns. While I was primarily working on a independent python analytics pipeline, I also got to explore the companies tick-by-tick data processing architecture following a subscriber-publisher C++ framework
 
-I did an internship in a market making company where I was involved in creating a time-based alternative evolution of Limit-order book using the subscriber-publisher C++ framework. This was the time where I learned deeply about algorithmic trading and market making. After a year, I realised that Market making is a niche business where knowing your competitor’s strategy has a big advantage. I read some amount of market making theory during this time. During my time here, I got to interact with other quantitative researchers and got a rounded idea of the qualities a financial research needs to possess.
+My first role was data scientist in a healthcare analytics company. My work was on data validation. The tech stack included for programming data processing pipelines, Hive SQL for database and Hadoop for cluster management.
 
 With my knowledge of statistics, data science, and programming, I am positioning myself to work at conjunction of quantitative financial analyst and developer.
+
+## Academics 
+
+I have a Bachelors degree in Mathematics and Computing from Indian Institute of Technology, Delhi. I secured a All India Rank of 280 in JEE Advanced 2017 to get an admisssion into this prestigious institution. 
+
+Course Done - Computer Vision, Deep Learning, Data Structures and Algorithms, Data Mining, Database Systems,
+Operating Systems, Theory of Computation, Optimization Theory, Statistics, Functional Analysis,
+Probability, Algebra, Differential Equations
+
+I also have a Masters in Financial Mathematics from North Carolina State University, Raleigh, NC. 
+
+Course Done -  Financial Data Science, Stochastic Calculus, Monte-Carlo methods, Financial Risk Analysis, Applied Bayesian Analysis,
+Fixed income Analysis, Statistical Learning
+
 
 ## Research Interests
 
