@@ -4,8 +4,9 @@
 
 ## Welcome to Prithwish Maiti's Portfolio
 
-I am a passionate data scientist with a focus on dissecting complexes financial assets and leveraging the power of data to find profitable trends in them. I am eager to deepen my expanding my expertise in modelling information flow and statistical learning. With the vast amount of data available in today's world, integrating data science models has become an essential factor in enhancing mathematical modelling. 
-I also have a prospective focus on game theory, Stochastic queuing and supply chain modelling, Monte Carlo simulation methods.
+**Welcome to my webpage.**
+I work at the intersection of systems engineering and data engineering, applying analytics to enable machines to perform high-level tasks with the computing power available today. My experience spans domains such as embedded systems, financial services, and healthcare analytics, where I have developed a deep appreciation for the need to design robust, scalable systems capable of processing data at scale.
+I have an interest in dissecting complexes financial assets and leveraging the power of data to find profitable trends in them. I am eager to deepen my expertise in modelling information flow and reinforcement learning. With the vast amount of data available in today's world, integrating data science models has become an essential factor for driving informed decision-making, optimizing processes, and unlocking new opportunities for innovation.
 
 ### Highlights
 
@@ -17,7 +18,7 @@ I also have a prospective focus on game theory, Stochastic queuing and supply ch
 
 ## Professional Summary
 
-Currently, I am employed at Murano Technologies at Durham, NC. Here, I am working as a software developer for IoT devices. The financial industry has always been on my radar, and I would love to work at the intersection of business and technology. Working here has gained my focus on low level programming in C++, taking maximum control of the program, modular and Object-oriented design. I have also learned essential skills like ownership of projects, effective reporting and documentation. I also goth the opportunity to research great innovations in the sector of communication, localization and positioning and Computer vision. All these research experience have made me product builder capable to   
+Currently, I am employed at Murano Technologies at Durham, NC. Here, I am working as a software systems engineer for handheldable devices .  Working here has gained my focus on low level programming in C++, taking maximum control of the program, modular and Object-oriented design. I have also learned essential skills like ownership of projects, effective reporting and documentation. I also goth the opportunity to research great innovations in the sector of communication, localization and positioning and Computer vision. All these research experience have made me product builder capable to   
 
 In the summer of 2024, I worked on robust risk measurement and model risk. This experience provided me with valuable insights into evaluating risk in a Commercial banking setting. I have a keen interest in extracting patterns out of financial data mostly in the form of time series data. 
 
