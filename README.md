@@ -110,9 +110,7 @@ Check out my blog on comparison of 3 algorithmic trading framework available as 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn.
 
-
 ---
 
-# Footer
 
 © [Prithwish Maiti] 2024 | [Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Blog](#blog) | [Contact](#contact)
