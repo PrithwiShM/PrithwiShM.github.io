@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+
+    {% seo %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0d1117">
+
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    >
+
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v='
+        | append: site.github.build_revision
+        | relative_url }}"
+    >
+
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/custom.css' | relative_url }}?v={{ site.time | date: '%s' }}"
+    >
+
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <a id="skip-to-content" href="#content">
+      Skip to content
+    </a>
+
+    {% include navigation.html %}
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span>
+          © {{ 'now' | date: '%Y' }} {{ site.title }}
+        </span>
+      </footer>
+    </main>
+  </body>
+</html>
